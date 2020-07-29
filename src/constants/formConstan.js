@@ -1,0 +1,4 @@
+export const FORM_ACTION_ADD = 'FORM_ACTION_ADD'
+export const FORM_ACTION_UPD = 'FORM_ACTION_UPD'
+export const FORM_ACTION_REM = 'FORM_ACTION_REM'
+export const FORM_ACTION_SET = 'FORM_ACTION_SET'
